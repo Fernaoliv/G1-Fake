@@ -204,8 +204,9 @@ button:hover {
     }
 
     .img-golpe {
-        width: 300px;
-        height: 200px;
-        margin: 20px 0;
+        display: none ;
+    }
+    .img-tigrinho{
+        display: none ;
     }
 }
