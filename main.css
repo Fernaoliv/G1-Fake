@@ -193,3 +193,13 @@ button:hover {
     font-size: 12px;
     margin-top: 5px;
 }
+
+@media (max-width: 768px) {
+    .container-main {
+        padding: 10px;
+    }
+
+    .container-item {
+        padding: 10px;
+    }
+}
